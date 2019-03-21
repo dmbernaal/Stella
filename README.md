@@ -1,5 +1,5 @@
 # Stella 
-Stella is **Nexus's Capital** *proprietary* a Trading Algorithm / Pipeline. 
+Experimental Deep Learning Algorithm for Trading. Doesn't mimic real market representation so mainly for educational and experimental purposes.
 
 This specific algorithm is composed of two parts: 
 * DenseNet CNN 
